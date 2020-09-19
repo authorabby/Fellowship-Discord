@@ -1,0 +1,90 @@
+Dyno.gg - used to add custom commands and and automatic roles
+
+
+Steps: 
+1. Go to dyno.gg and sign in with Discord login
+2. On the Dashboard, you can customize command prefix and bot name
+
+
+To add Custom Commands, go to Custom Commands under Modules. 
+1. Click “Add Command”. 
+2. Add command name
+3. Add response
+4. Toggle whether command is deleted from channel or whether command response sends a direct message to user. 
+
+Example commands:
+
+
+-----------------------------------------------------
+Command name: helpme
+
+Message: 
+Help Menu:
+
+Type one of the following commands in any channel for more info:
+“?rules” - <Fellowship Name> channel rules 😀
+”?notifications” - 🔔Customize Notifications 🔔
+"?contact" - <Fellowship Name> contact information and links 
+
+For any other questions or tech help, go to ⚙️ discord-help
+
+
+-----------------------------------------------------
+
+Command name: rules
+
+
+Message: 
+Rules for <Fellowship Name>:
+1.    Feel free to use this server to connect with others or hangout!
+2.    We are a community that values belonging and safety, so do not post inappropriate content, spam, or be disrespectful towards others.
+-----------------------------------------------------
+
+Command name: notifications
+
+Message: 
+❗🔔How to customize notifications🔔❗
+
+🔕To mute any channel or category, 
+        1. Right-click the channel/category
+        2.  Click "Mute" to specify the duration.
+
+⚙️To mute the entire server or specify all channel notification settings, 
+        1. Click "<Fellowship Name>" top banner
+        2. Navigate to "Notification Settings" or Bell icon. 
+        3. Toggle "Mute <Fellowship Name>" or customize channel notification settings separately. 
+
+You can be notified of "All messages", when others @mention you, or none.
+
+ℹ️ For more help, check out the full Notification Settings tutorial: https://support.discord.com/hc/en-us/articles/215253258-Notifications-Settings-101
+
+-----------------------------------------------------
+
+
+Command name: directory
+
+Message: 
+Category Directory
+
+Below is a list to all the Categories in the <Fellowship Name> Server. To request access, ask tech team in the discord-help channel.
+
+Important - events, announcement
+Small Groups
+Leadership 
+Tech Help
+
+
+-----------------------------------------------------
+
+Command name: contact
+
+Message: 
+
+Ministry website:
+Facebook: 
+Instagram:
+
+Contact email:
+
+
+-----------------------------------------------------
